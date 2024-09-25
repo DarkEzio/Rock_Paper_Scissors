@@ -1,1 +1,1 @@
-Execute R_P_S.exe to start play
+Execute "R_P_S.exe" to start play
